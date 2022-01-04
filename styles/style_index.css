@@ -1,0 +1,58 @@
+body {
+    height: 100vh;
+}
+
+.header {
+    height: 10%;
+    background: rgb(170, 175, 180);
+    font-size: 20px;
+}
+
+.header h1 {
+    text-align: center;
+    color: white;
+}
+
+.main {
+    height: 80%;
+    background: lawngreen;
+}
+
+.footer {
+    text-align: center;
+    height: 10%;
+    background: indianred;
+}
+
+.nav {
+    vertical-align: top;
+    display: inline-block;
+    height: 100%;
+    width: 35%;
+    background: bisque;
+}
+
+.nav p {
+    color: red;
+    height: 50%;
+    width: 100%;
+    margin: 0px;
+}
+
+.section {
+    vertical-align: top;
+    display: inline-block;
+    height: 100%;
+    width: 65%;
+    background: goldenrod;
+}
+
+.section div{
+    width: 100%;
+    height: 33%;
+}
+
+.img {
+    height: 50%;
+    width: 100%;
+}
